@@ -1,0 +1,413 @@
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n1.txt
+Numero de filas:
+97
+Numero de columnas:
+80
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n2.txt
+Numero de filas:
+62
+Numero de columnas:
+41
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n3.txt
+Numero de filas:
+25
+Numero de columnas:
+36
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n4.txt
+Numero de filas:
+101
+Numero de columnas:
+11
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n5.txt
+Numero de filas:
+21
+Numero de columnas:
+7
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n6.txt
+Numero de filas:
+9
+Numero de columnas:
+31
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n7.txt
+Numero de filas:
+16
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n8.txt
+Numero de filas:
+19
+Numero de columnas:
+33
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n9.txt
+Numero de filas:
+12
+Numero de columnas:
+22
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n10.txt
+Numero de filas:
+14
+Numero de columnas:
+20
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n11.txt
+Numero de filas:
+270
+Numero de columnas:
+91
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n12.txt
+Numero de filas:
+7
+Numero de columnas:
+72
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n13.txt
+Numero de filas:
+61
+Numero de columnas:
+17
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n14.txt
+Numero de filas:
+35
+Numero de columnas:
+15
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n15.txt
+Numero de filas:
+38
+Numero de columnas:
+11
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n16.txt
+Numero de filas:
+118
+Numero de columnas:
+24
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n17.txt
+Numero de filas:
+76
+Numero de columnas:
+31
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n18.txt
+Numero de filas:
+13
+Numero de columnas:
+14
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n19.txt
+Numero de filas:
+10
+Numero de columnas:
+16
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n20.txt
+Numero de filas:
+18
+Numero de columnas:
+7
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n21.txt
+Numero de filas:
+19
+Numero de columnas:
+45
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n22.txt
+Numero de filas:
+19
+Numero de columnas:
+36
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n23.txt
+Numero de filas:
+179
+Numero de columnas:
+26
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n24.txt
+Numero de filas:
+80
+Numero de columnas:
+28
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n25.txt
+Numero de filas:
+17
+Numero de columnas:
+16
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n26.txt
+Numero de filas:
+82
+Numero de columnas:
+40
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n27.txt
+Numero de filas:
+27
+Numero de columnas:
+5
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n28.txt
+Numero de filas:
+90
+Numero de columnas:
+19
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n29.txt
+Numero de filas:
+61
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n30.txt
+Numero de filas:
+8
+Numero de columnas:
+19
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n31.txt
+Numero de filas:
+28
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n32.txt
+Numero de filas:
+45
+Numero de columnas:
+21
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n33.txt
+Numero de filas:
+70
+Numero de columnas:
+20
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n34.txt
+Numero de filas:
+79
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n35.txt
+Numero de filas:
+14
+Numero de columnas:
+8
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n36.txt
+Numero de filas:
+40
+Numero de columnas:
+169
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n37.txt
+Numero de filas:
+44
+Numero de columnas:
+13
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n38.txt
+Numero de filas:
+51
+Numero de columnas:
+99
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n39.txt
+Numero de filas:
+33
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n40.txt
+Numero de filas:
+28
+Numero de columnas:
+18
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n41.txt
+Numero de filas:
+12
+Numero de columnas:
+10
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n42.txt
+Numero de filas:
+42
+Numero de columnas:
+8
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n43.txt
+Numero de filas:
+55
+Numero de columnas:
+29
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n44.txt
+Numero de filas:
+56
+Numero de columnas:
+9
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n45.txt
+Numero de filas:
+36
+Numero de columnas:
+61
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n46.txt
+Numero de filas:
+58
+Numero de columnas:
+17
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n47.txt
+Numero de filas:
+139
+Numero de columnas:
+41
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n48.txt
+Numero de filas:
+118
+Numero de columnas:
+49
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n49.txt
+Numero de filas:
+47
+Numero de columnas:
+23
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n50.txt
+Numero de filas:
+45
+Numero de columnas:
+46
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n51.txt
+Numero de filas:
+8
+Numero de columnas:
+15
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n52.txt
+Numero de filas:
+33
+Numero de columnas:
+7
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n53.txt
+Numero de filas:
+34
+Numero de columnas:
+13
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n54.txt
+Numero de filas:
+126
+Numero de columnas:
+25
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n55.txt
+Numero de filas:
+14
+Numero de columnas:
+50
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n56.txt
+Numero de filas:
+110
+Numero de columnas:
+207
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n57.txt
+Numero de filas:
+14
+Numero de columnas:
+11
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n58.txt
+Numero de filas:
+678
+Numero de columnas:
+90
+Nayeli,Pineda; Analisis de datso simples
+Nombre del archivo:
+n59.txt
+Numero de filas:
+663
+Numero de columnas:
+130
