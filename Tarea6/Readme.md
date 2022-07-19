@@ -3,8 +3,6 @@
 # Bioinformática (GBI6G012022)
 ## Tarea6
 
-
-
 ## Datos personales
 **Nombre**: Pineda Nayeli
 - 21 años
