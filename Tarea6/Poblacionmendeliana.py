@@ -27,7 +27,7 @@ def compute_frequencies(population):
     aa = population.count(("a", "a"))
     print("Generacion 1:",{"AA": AA, "aa": aa, "Aa": Aa, "aA": aA})
     
-    #agregamos para las siguientes generaciones
+    #agrego para las siguientes generaciones
     viejo = population
     for i in range(0,500):
         nuevo = reproduce_population(viejo)
